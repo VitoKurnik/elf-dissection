@@ -1,7 +1,7 @@
 ELF Dissection
 ===============
 
->> by Vito Kurnik
+> by Vito Kurnik
 
 #### Examples of use:
 
